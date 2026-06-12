@@ -7,7 +7,7 @@ I bridge the gap between advanced data science, engineering execution, and comme
 
 ## 🚀 Featured Data Product Case Studies
 
-### ✈️ [Airline Passenger Satisfaction Analysis]()
+### ✈️ [Airline Passenger Satisfaction Analysis](https://github.com/anuj-ruhela/airline-passenger-satisfaction-analytics)
 * **The Product Hypothesis:** Identifying and predicting real-time operational friction points to trigger automated customer retention workflows.
 * **The Technical Stack:** Python, Pandas, Scikit-Learn, Predictive Modeling (120K+ row dataset).
 * **The Product Value:** Evaluated machine learning models to isolate the top 5 drivers of negative user sentiment, turning raw data into a prioritized feature roadmap.
