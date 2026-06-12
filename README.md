@@ -27,5 +27,5 @@ I bridge the gap between advanced data science, engineering execution, and comme
 ---
 
 ## 📬 Let's Connect
-* 💼 **LinkedIn:** :** [linkedin.com/in/anujruhela](https://www.linkedin.com/in/anujruhela/)
-* 📍 **Target Market:** Dubai, UAE (Available for leadership & senior individual contributor roles)
+* 💼 **LinkedIn:** [linkedin.com/in/anujruhela](https://www.linkedin.com/in/anujruhela/)
+* 📍 **Target Market:** Dubai, UAE
