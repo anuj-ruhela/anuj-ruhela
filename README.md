@@ -1,5 +1,5 @@
 # Hi, I'm Anuj Ruhela 👋
-### Senior Product Leader & Technical PM | SaaS, ERP & AI Platforms
+### Senior Product Owner & Technical PM | SaaS, ERP & AI Platforms
 
 I bridge the gap between advanced data science, engineering execution, and commercial product value. I treat product management as an analytical science—using data architecture and ML frameworks to make high-leverage roadmap decisions.
 
